@@ -2,7 +2,7 @@ package printLn;
 
 public class PrintLn {
 
-	public static void main(String[] args) {
+	public static void print () {
 		// TODO Auto-generated method stub
 
 		// Comentario simple
