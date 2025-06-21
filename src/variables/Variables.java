@@ -2,7 +2,7 @@ package variables;
 
 public class Variables {
 
-    public static void vars () {k,k,k.<>
+    public static void vars () {
         // TODO Auto-generated method stub
 
         // TIPOS DE DATO PRIMITIVO
@@ -35,6 +35,17 @@ public class Variables {
 
         // String : tamano variable : secuencia de caracteres
         String texto = "GALENA ANTINATA REVIRA LODROGIL";
+
+        // VARIABLE SWAPPING
+        int d = 494;
+        int a = 493;
+        int temp;
+
+        temp = d;
+        d = a;
+        a = temp;
+        //swapped
+
         
     }
 
